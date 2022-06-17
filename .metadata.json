@@ -1,0 +1,14 @@
+[
+  {
+    "package": "BiDimRegression",
+    "oncran": true
+  },
+  {
+    "package": "bistablehistory",
+    "oncran": true
+  },
+  {
+    "package": "TriDimRegression",
+    "oncran": true
+  }
+]
