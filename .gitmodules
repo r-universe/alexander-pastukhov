@@ -18,6 +18,11 @@
 	url = https://github.com/alexander-pastukhov/eyelinkreader
 	shallow = true
 	registered = true
+[submodule "saccadr"]
+	path = saccadr
+	url = https://github.com/alexander-pastukhov/saccadr
+	shallow = true
+	registered = true
 [submodule "TriDimRegression"]
 	path = TriDimRegression
 	url = https://github.com/alexander-pastukhov/tridim-regression

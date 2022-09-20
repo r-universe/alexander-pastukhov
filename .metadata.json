@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "saccadr",
+    "oncran": true
+  },
+  {
     "package": "TriDimRegression",
     "oncran": true
   }
