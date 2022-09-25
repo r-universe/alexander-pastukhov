@@ -13,7 +13,7 @@
   },
   {
     "package": "saccadr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "TriDimRegression",
