@@ -1,10 +1,10 @@
 [
   {
-    "package": "BiDimRegression",
+    "package": "saccadr",
     "oncran": true
   },
   {
-    "package": "bistablehistory",
+    "package": "TriDimRegression",
     "oncran": true
   },
   {
@@ -12,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "saccadr",
+    "package": "bistablehistory",
     "oncran": true
   },
   {
-    "package": "TriDimRegression",
+    "package": "BiDimRegression",
     "oncran": true
   }
 ]

@@ -3,21 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "BiDimRegression"]
-	path = BiDimRegression
-	url = https://github.com/alexander-pastukhov/bidim-regression
-	shallow = true
-	registered = true
-[submodule "bistablehistory"]
-	path = bistablehistory
-	url = https://github.com/alexander-pastukhov/bistablehistory
-	shallow = true
-	registered = true
-[submodule "eyelinkReader"]
-	path = eyelinkReader
-	url = https://github.com/alexander-pastukhov/eyelinkreader
-	shallow = true
-	registered = true
 [submodule "saccadr"]
 	path = saccadr
 	url = https://github.com/alexander-pastukhov/saccadr
@@ -26,5 +11,20 @@
 [submodule "TriDimRegression"]
 	path = TriDimRegression
 	url = https://github.com/alexander-pastukhov/tridim-regression
+	shallow = true
+	registered = true
+[submodule "eyelinkReader"]
+	path = eyelinkReader
+	url = https://github.com/alexander-pastukhov/eyelinkreader
+	shallow = true
+	registered = true
+[submodule "bistablehistory"]
+	path = bistablehistory
+	url = https://github.com/alexander-pastukhov/bistablehistory
+	shallow = true
+	registered = true
+[submodule "BiDimRegression"]
+	path = BiDimRegression
+	url = https://github.com/alexander-pastukhov/bidim-regression
 	shallow = true
 	registered = true
