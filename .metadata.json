@@ -1,14 +1,6 @@
 [
   {
-    "package": "saccadr",
-    "oncran": true
-  },
-  {
-    "package": "TriDimRegression",
-    "oncran": true
-  },
-  {
-    "package": "eyelinkReader",
+    "package": "BiDimRegression",
     "oncran": true
   },
   {
@@ -16,7 +8,15 @@
     "oncran": true
   },
   {
-    "package": "BiDimRegression",
+    "package": "eyelinkReader",
+    "oncran": true
+  },
+  {
+    "package": "saccadr",
+    "oncran": true
+  },
+  {
+    "package": "TriDimRegression",
     "oncran": true
   }
 ]
