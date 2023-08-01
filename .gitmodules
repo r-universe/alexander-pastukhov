@@ -5,6 +5,9 @@
 [submodule "BiDimRegression"]
 	path = BiDimRegression
 	url = https://github.com/alexander-pastukhov/bidim-regression
+[submodule "TriDimRegression"]
+	path = TriDimRegression
+	url = https://github.com/alexander-pastukhov/tridim-regression
 [submodule "bistablehistory"]
 	path = bistablehistory
 	url = https://github.com/alexander-pastukhov/bistablehistory
@@ -14,6 +17,3 @@
 [submodule "saccadr"]
 	path = saccadr
 	url = https://github.com/alexander-pastukhov/saccadr
-[submodule "TriDimRegression"]
-	path = TriDimRegression
-	url = https://github.com/alexander-pastukhov/tridim-regression
